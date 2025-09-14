@@ -19,11 +19,11 @@
                     <key>bundle-identifier</key>
                     <string>host.exp.Exponent</string>
                     <key>bundle-version</key>
-                    <string>2.31.3</string>
+                    <string>2.33.12</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>Expo(VTI)</string>
+                    <string>Expo Go</string>
                 </dict>
             </dict>
         </array>
